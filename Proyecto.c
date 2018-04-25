@@ -3,4 +3,5 @@ void main() {
     DDRB = 0xFF;
     //moike
     //mome
+    //oscor
 }
